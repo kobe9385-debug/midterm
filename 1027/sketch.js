@@ -35,7 +35,8 @@ const menuConfig = [
 			{ label: '10/20', url: 'https://github.com/kobe9385-debug/20251020', target: '_blank' }, // 以新視窗開啟
 			{ label: '10/27', url: 'https://github.com/kobe9385-debug/20251027', target: '_blank' },
 			{ label: '11/03', url: 'https://github.com/kobe9385-debug/202501103', target: '_blank' },
-			{ label: '11/10', url: 'https://github.com/kobe9385-debug/20251110', target: '_blank' }
+			{ label: '11/10', url: 'https://github.com/kobe9385-debug/20251110', target: '_blank' },
+			{ label: '期中專案', url: 'https://github.com/kobe9385-debug/-', target: '_blank' }
 		]
 	},
 	{
